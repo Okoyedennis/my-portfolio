@@ -1,9 +1,9 @@
 import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../asset/HarmonyCare.png";
-import IMG2 from "../../asset/yummy-food-delivery.png";
+// import IMG2 from "../../asset/yummy-food-delivery.png";
 import IMG3 from "../../asset/real-estate.png";
-import IMG4 from "../../asset/hotelify.png";
+// import IMG4 from "../../asset/hotelify.png";
 import IMG5 from "../../asset/fitness-pix.png";
 import IMG6 from "../../asset/kunech.png";
 import IMG7 from "../../asset/simply-group.png";
@@ -23,13 +23,13 @@ const Portfolio = () => {
       title: "NedGab Consult",
       demo: "https://nedgabconsults.com/",
     },
-    {
-      id: 2,
-      image: IMG2,
-      title: "Yummy Food Delivery",
-      github: "https://github.com/Okoyedennis/yummy_food_delivery", // / not needed in live project
-      demo: "https://yummy-food-delivery.vercel.app/",
-    },
+    // {
+    //   id: 2,
+    //   image: IMG2,
+    //   title: "Yummy Food Delivery",
+    //   github: "https://github.com/Okoyedennis/yummy_food_delivery", // / not needed in live project
+    //   demo: "https://yummy-food-delivery.vercel.app/",
+    // },
     {
       id: 3,
       image: IMG3,
@@ -37,13 +37,13 @@ const Portfolio = () => {
       github: "https://github.com/Okoyedennis/real-estate-template",
       demo: "https://real-estate-template-sooty.vercel.app/",
     },
-    {
-      id: 4,
-      image: IMG4,
-      title: "Hotelify",
-      github: "https://github.com/Okoyedennis/Hotelify",
-      demo: "https://hotelify07.netlify.app/",
-    },
+    // {
+    //   id: 4,
+    //   image: IMG4,
+    //   title: "Hotelify",
+    //   github: "https://github.com/Okoyedennis/Hotelify",
+    //   demo: "https://hotelify07.netlify.app/",
+    // },
     {
       id: 5,
       image: IMG5,
