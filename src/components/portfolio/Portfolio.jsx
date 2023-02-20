@@ -7,8 +7,9 @@ import IMG3 from "../../asset/real-estate.png";
 import IMG5 from "../../asset/fitness-pix.png";
 import IMG6 from "../../asset/kunech.png";
 import IMG7 from "../../asset/simply-group.png";
-import IMG8 from "../../asset/nedgab-consult.png";
-
+// import IMG8 from "../../asset/nedgab-consult.png";
+import IMG9 from "../../asset/p-invent-mgt.png";
+ 
 const Portfolio = () => {
   const data = [
     {
@@ -19,10 +20,16 @@ const Portfolio = () => {
     },
     {
       id: 8,
-      image: IMG8,
-      title: "NedGab Consult",
-      demo: "https://nedgabconsults.com/",
+      image: IMG9,
+      title: "Inventory Mgt App",
+      demo: "https://inventory-mgt-one.vercel.app/",
     },
+    // {
+    //   id: 8,
+    //   image: IMG8,
+    //   title: "NedGab Consult",
+    //   demo: "https://nedgabconsults.com/",
+    // },
     // {
     //   id: 2,
     //   image: IMG2,
