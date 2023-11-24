@@ -28,13 +28,13 @@ const Portfolio = () => {
       demo: "https://fashion-app-xi.vercel.app/",
     },
     {
-      id: 10,
+      id: 11,
       image: IMG12,
       title: "Quick Logistics Hub",
       demo: "https://www.quicklogisticshub.com/",
     },
     {
-      id: 11,
+      id: 12,
       image: IMG11,
       title: "Crypto Hunter",
       demo: "https://crypto-hunt-currency.netlify.app/",
