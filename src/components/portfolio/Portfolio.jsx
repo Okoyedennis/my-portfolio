@@ -35,7 +35,7 @@ const Portfolio = () => {
       id: 9,
       image: IMG8,
       title: "NedGab Consult",
-      demo: "https://nedgabconsults.com/",
+      demo: "https://nedgabconsults.com/", 
     },
     // {
     //   id: 2,
