@@ -8,8 +8,10 @@ import IMG5 from "../../asset/fitness-pix.png";
 import IMG6 from "../../asset/kunech.png";
 import IMG7 from "../../asset/simply-group.png";
 import IMG8 from "../../asset/nedgab-consult.png";
-import IMG9 from "../../asset/p-invent-mgt.png";
+// import IMG9 from "../../asset/p-invent-mgt.png";
 import IMG10 from "../../asset/fashion-app.png";
+import IMG11 from "../../asset/crypto_hunt.png";
+import IMG12 from "../../asset/quicklogisticshub.png";
  
 const Portfolio = () => {
   const data = [
@@ -26,16 +28,28 @@ const Portfolio = () => {
       demo: "https://fashion-app-xi.vercel.app/",
     },
     {
-      id: 8,
-      image: IMG9,
-      title: "Inventory Mgt App",
-      demo: "https://inventory-mgt-one.vercel.app/",
+      id: 10,
+      image: IMG12,
+      title: "Quick Logistics Hub",
+      demo: "https://www.quicklogisticshub.com/",
     },
+    {
+      id: 11,
+      image: IMG11,
+      title: "Crypto Hunter",
+      demo: "https://crypto-hunt-currency.netlify.app/",
+    },
+    // {
+    //   id: 8,
+    //   image: IMG9,
+    //   title: "Inventory Mgt App",
+    //   demo: "https://inventory-mgt-one.vercel.app/",
+    // },
     {
       id: 9,
       image: IMG8,
       title: "NedGab Consult",
-      demo: "https://nedgabconsults.com/", 
+      demo: "https://nedgabconsults.com/",
     },
     // {
     //   id: 2,
