@@ -1,13 +1,13 @@
 import React from "react";
 import "./Portfolio.css";
 import IMG1 from "../../asset/HarmonyCare.png";
-import IMG3 from "../../asset/real-estate.png";
+import IMG3 from "../../asset/rosabon.png";
 import IMG5 from "../../asset/fitness-pix.png";
 import IMG6 from "../../asset/kunech.png";
 import IMG7 from "../../asset/simply-group.png";
 import IMG8 from "../../asset/nedgab-consult.png";
 import IMG10 from "../../asset/fashion-app.png";
-import IMG11 from "../../asset/crypto_hunt.png";
+import IMG11 from "../../asset/salariopay.png";
 import IMG12 from "../../asset/quicklogisticshub.png";
  
 const Portfolio = () => {
@@ -33,8 +33,8 @@ const Portfolio = () => {
     {
       id: 12,
       image: IMG11,
-      title: "Crypto Hunter",
-      demo: "https://crypto-hunt-currency.netlify.app/",
+      title: "SalarioPay",
+      demo: "https://salariopay.com/",
     },
     {
       id: 9,
@@ -45,9 +45,9 @@ const Portfolio = () => {
     {
       id: 3,
       image: IMG3,
-      title: "Real Estate Template",
-      github: "https://github.com/Okoyedennis/real-estate-template",
-      demo: "https://real-estate-template-sooty.vercel.app/",
+      title: "Rosabon",
+      // github: "https://github.com/Okoyedennis/real-estate-template",
+      demo: "https://rosabon-treasury.optisoft.com.ng/login",
     },
     {
       id: 5,
