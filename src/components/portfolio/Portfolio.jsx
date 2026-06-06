@@ -1,22 +1,22 @@
 import React from "react";
 import "./Portfolio.css";
-import IMG1 from "../../asset/HarmonyCare.png";
-import IMG3 from "../../asset/rosabon.png";
+import IMG1 from "../../asset/Nottechltd.png";
+// import IMG3 from "../../asset/rosabon.png";
 import IMG5 from "../../asset/fitness-pix.png";
 import IMG6 from "../../asset/kunech.png";
 import IMG7 from "../../asset/simply-group.png";
-import IMG8 from "../../asset/nedgab-consult.png";
+// import IMG8 from "../../asset/nedgab-consult.png";
 import IMG10 from "../../asset/fashion-app.png";
 import IMG11 from "../../asset/salariopay.png";
-import IMG12 from "../../asset/quicklogisticshub.png";
- 
+import IMG12 from "../../asset/buymeter.png";
+
 const Portfolio = () => {
   const data = [
     {
       id: 1,
       image: IMG1,
-      title: "Harmony Care",
-      demo: "https://harmonycares.org/",
+      title: "!Nottechltd",
+      demo: "https://nottechltd.com/",
     },
     {
       id: 10,
@@ -27,8 +27,8 @@ const Portfolio = () => {
     {
       id: 11,
       image: IMG12,
-      title: "Quick Logistics Hub",
-      demo: "https://www.quicklogisticshub.com/",
+      title: "BuyMeter",
+      demo: "https://www.buymeter.ng/signin",
     },
     {
       id: 12,
@@ -36,19 +36,19 @@ const Portfolio = () => {
       title: "SalarioPay",
       demo: "https://salariopay.com/",
     },
-    {
-      id: 9,
-      image: IMG8,
-      title: "NedGab Consult",
-      demo: "https://nedgabconsults.com/",
-    },
-    {
-      id: 3,
-      image: IMG3,
-      title: "Rosabon",
-      // github: "https://github.com/Okoyedennis/real-estate-template",
-      demo: "https://rosabon-treasury.optisoft.com.ng/login",
-    },
+    // {
+    //   id: 9,
+    //   image: IMG8,
+    //   title: "NedGab Consult",
+    //   demo: "https://nedgabconsults.com/",
+    // },
+    // {
+    //   id: 3,
+    //   image: IMG3,
+    //   title: "Rosabon",
+    //   // github: "https://github.com/Okoyedennis/real-estate-template",
+    //   demo: "https://rosabon-treasury.optisoft.com.ng/login",
+    // },
     {
       id: 5,
       image: IMG5,
